@@ -58,6 +58,7 @@ if __name__ == "__main__":
         name="facexlib",
         description="Basic face library",
         long_description=readme(),
+        version="0.2.24",
         long_description_content_type="text/markdown",
         author="Xintao Wang",
         author_email="xintao.wang@outlook.com",
